@@ -1,0 +1,6 @@
+{
+  "name": "Secure Remote Screen Viewer",
+  "description": "A high-performance remote mobile screen viewer utilizing a secure 6-digit connection code. It features a premium dark UI, WebSockets signaling, and interactive touch and swipe mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
